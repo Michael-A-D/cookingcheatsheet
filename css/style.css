@@ -122,7 +122,7 @@ th, td {
 .sep::after {
   content: "";
   display: inline-block;
-  width: 200px;
+  width: 8em;
   height: 3px;
   background: linear-gradient(to right, transparent, #999, transparent);
   margin: 0 auto;
